@@ -46,4 +46,4 @@ ai-engineering-docs/
 
 Start at the [Generative AI & LLM learning guide](docs/pages/generative-ai-llm/README.md). It has the full table of contents, an 8-week study plan and the environment setup.
 
-> Model names and SDK APIs change frequently. The examples were checked against official documentation in **October 2026**. Each chapter links to the official docs so you can confirm current details.
+> Model names and SDK APIs change frequently. The examples were checked against official documentation in **October 2026**. 
